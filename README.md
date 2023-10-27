@@ -1,2 +1,2 @@
-# web-memory-game
+# Memory-Game
 Memory Game online game
